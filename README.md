@@ -1,1 +1,1 @@
-# mini-message-board
+Mini Node.js and Express message board project.
